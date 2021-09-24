@@ -1,0 +1,45 @@
+body {
+	font-size: 18px;
+}
+h1 {
+	text-align: center;
+	margin-bottom: 45px;
+	margin-top: 0px;
+}
+h2 {
+	position: absolute;
+	left:50%;
+	margin-top: 10px;
+	transform: translate(-50%, 0);
+	color: #D6CFC7;
+}
+
+section p {
+	background-color: #808080;
+	padding: 45px 15px 15px 15px;
+	color: #D6CFC7;
+
+}
+
+.navbar-brand {
+	font-size: 1.8em;
+
+}
+
+li > a {
+	text-align: center;
+
+}
+#nav-list {
+	background-color: #BEBDB8;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#navigation {
+	background-color: #48494B;
+
+}
+.navbar-header .navbar-brand {
+	color: #D9DDDC;
+}
